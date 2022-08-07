@@ -28,6 +28,8 @@ This project can be still be enhanced by
   
 ### License
 
+This exercise stems from MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN Program
+
 > MIT License
 > Copyright (c) 2022 Sujatha Arunagiri
 > Permission is hereby granted, free of charge, to any person obtaining a copy
