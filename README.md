@@ -1,7 +1,9 @@
 <h1 align="center">Simulation - Ball movement Exercise</h1>
 
 <h4 align="center">This exercise shows use of javascript to bounce a ball in a defined axis.</h4>
+<br>
 
+*[Simulation : ball movement in action](https://suja-codes.github.io/simulation-exercise/)*
 
 ### Description 
 
