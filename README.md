@@ -2,8 +2,13 @@
 
 <h4 align="center">This exercise shows use of javascript to bounce a ball in a defined axis.</h4>
 <br>
+<br>
 
-*[Simulation : ball movement in action](https://suja-codes.github.io/simulation-exercise/)*
+https://user-images.githubusercontent.com/104742558/183473450-f307ff2f-5537-4c9b-9ead-287ecaa06266.mp4
+
+<br>
+
+*[Visit the github page for this repository](https://suja-codes.github.io/simulation-exercise/)*
 
 ### Description 
 
